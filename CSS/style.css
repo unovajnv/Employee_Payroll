@@ -1,0 +1,86 @@
+body{
+    background-color: #F7F7F7;
+}
+.topC{
+    padding: 15px 50px 6px 50px ;
+    background-color: #FFFFFF;
+    display: flex;
+}
+.header{
+    width: 90%;
+    margin: 30px 40px 5px 40px;
+}
+.Epay{
+    font-family: "Roboto", sans-serif;
+    font-weight:700;
+    padding-left: 5px;
+    font-size:14px
+}
+.eply{
+    color: #82A70C; ;
+}
+.eply2{
+    color: black;
+}
+.ED{
+    font-family: "Roboto", sans-serif;
+    color: #42515F;
+    font-weight: bold;
+    font-size: 28px;
+}
+table {
+    width: 89%;
+    border-collapse: collapse;
+    font-family: "Roboto", sans-serif;
+    margin: 20px 40px;
+    margin-left: 45px;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+thead{
+    background-color: #42515F;
+    color: aliceblue;
+}
+.crl{
+    background-color: #E9FEA5;
+    border-radius: 13px;
+    padding: 5px 10px;
+    /* margin: 0px 2px; */
+    width: 200px;
+    height: 20px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black; 
+}
+.btn{
+ background-color: #82A70C;
+ font-family: "Roboto", sans-serif;
+ color: #FFFFFF;
+ text-align: center;
+ font-weight: 300;
+ padding-top: 10px;
+ border-radius: 5px;
+ width: 130px;
+ height: 45px;
+
+}
+.sIcon{
+    text-align: center;
+    padding: 10px;
+    width: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 3px #00000029;
+    border-radius: 28px;
+    opacity: 1;
+}
+
+span>svg{
+    margin: 8px;
+}
+.plus{
+    font-size:large;
+   
+}
+
